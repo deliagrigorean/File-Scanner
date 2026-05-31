@@ -1,0 +1,61 @@
+{
+    "rules": [
+        {
+            "name": "Ransomware.Test.Basic",
+            "strings": {
+                "encrypt_files": 1,
+                "send_bitcoin_to_wallet": 1
+            }
+        },
+        {
+            "name": "Virus.chinezesc",
+            "strings": {
+                "TELEGRAM_BOT_TOKEN": 4,
+                "TELEGRAM_CHAT_ID": 4, 
+                "PAYLOAD_SCRIPT_FILENAME": 6
+            }
+        },
+        {
+            "name": "virus.I.Love.Y",
+            "strings": {
+                "scriptini": 14,
+                "regedit": 13,
+                "mapi": 4
+            }
+        },
+        {
+            "name": "Virus.repetitiv",
+            "strings": {
+                "zipURL": 3,
+                "zipPath": 5,
+                "destFolder": 6,
+                "scriptToRun": 4
+            }
+        },
+        {
+            "name": "virus.8e",
+            "strings": {
+                "strAppHandler": 4,
+                "strFSClass": 3,
+                "strProcessor": 3,
+                "strPrivLevel": 3
+            }
+        },
+        {
+            "name": "virus.linie",
+            "strings": {
+                "UuvKt": 2,
+                "vTsEk": 2,
+                "uJbDy": 2
+            }
+        },
+        {
+            "name": "virus.unicode",
+            "strings": {
+                "reloc": 1,
+                "Strings": 2,
+                "EnvironmentVariable": 2
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "rules": [
+        {
+            "name": "Malicious_Hex_Payload_Test",
+            "hex": "DEADBEEF",
+            "offset": "any"
+        },
+        {
+            "name": "semnatura_test1",
+            "hex": "8D4302488D4C2420",
+            "offset":"any"
+        },
+        {
+            "name": "semnatura_test2",
+            "hex": "E9BF01000048899C",
+            "offset":"any"
+        },
+        {
+            "name": "semnatura_test3",
+            "hex": "2C970000008B4424",
+            "offset": "any"
+        },
+        {
+            "name": "semnatura_test4",
+            "hex": "6F722E5057616974",
+            "offset": "any"
+        },
+        {
+            "name": "semnatura_test5",
+            "hex": "F46611C193662B9C",
+            "offset": "any"
+        }
+    ]
+}
+
+
+

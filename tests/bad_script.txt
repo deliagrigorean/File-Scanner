@@ -1,0 +1,1 @@
+Acesta este un fisier de test. Vreau sa encrypt_files si sa send_bitcoin_to_wallet chiar acum!

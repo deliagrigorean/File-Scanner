@@ -1,0 +1,17 @@
+{
+    "white_list": [
+         "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+         "0f2d00d4a4165b94b5d3047ecea9d9ec55da47b599f12a49cb62cc0d46bf9893",
+         "d60f9eaa4f62f0ee84531d9aa633c5bb390ea0056953e58d80b9a62277dbe5c5",
+         "ac793c93a7a33affa4276a7f23cbb8fb2afb1f61680263ad014c3887d916ed3a"
+    ],
+
+    "black_list": {
+        "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8": "test_malware_1",
+        "904a61a37592f6a7c9e5db72bc097782911ac5992b17c2188ae9c6306c41c1e2": "test_malware_2",
+        "d3e989f804393e78ea6dbbd695be438350b450745df755f72139ab2d5c0c516e": "test_malware_3",
+        "a7a2151c314a329c44df6d43c6f2757bd8994a5c6ec4c7aa1e9cb58713796b2d": "test_malware_4"
+    } 
+}
+
+

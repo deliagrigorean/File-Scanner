@@ -1,0 +1,1 @@
+python "C:\Users\dg\Desktop\AntivirusProject\src\main.py" %*
